@@ -14,3 +14,15 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 ## Roadmap
+
+To Be Continued...
+
+## Resources
+
+1. MVVM frameworks
+    [Prism](https://github.com/PrismLibrary/Prism)
+    [MVVMCross](https://www.mvvmcross.com/)
+    [MVVMLight](http://www.mvvmlight.net/)
+    [FreshMVVM](https://github.com/rid00z/FreshMvvm)
+    [ReactiveUI](https://reactiveui.net/) – if you are doing Rx
+
