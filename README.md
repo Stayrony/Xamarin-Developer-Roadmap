@@ -26,6 +26,15 @@ To Be Continued...
    - [MVVMLight](http://www.mvvmlight.net/)
    - [FreshMVVM](https://github.com/rid00z/FreshMvvm)
    - [ReactiveUI](https://reactiveui.net/) – if you are doing Rx
+   
+2. Storage
+
+   - [SQLite](https://github.com/praeclarum/sqlite-net)
+   - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
+   - [Akavache](https://github.com/akavache/akavache)
+   - [Realm Database Only](https://github.com/realm/realm-dotnet)
+   - [LiteDB](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
+   - [Azure Mobile Apps](https://github.com/Azure/azure-mobile-apps-net-client): Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
     
     
     
