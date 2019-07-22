@@ -36,7 +36,13 @@ To Be Continued...
    - [LiteDB](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
    - [Azure Mobile Apps](https://github.com/Azure/azure-mobile-apps-net-client): Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
     
-    
+ 3. Network libraries
+ 
+   - [RestSharp](http://restsharp.org/)
+   - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp). 
+   - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET. 
+   - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker. 
+
     
     
     
