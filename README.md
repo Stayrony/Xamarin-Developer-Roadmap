@@ -36,7 +36,7 @@ To Be Continued...
    - [LiteDB](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
    - [Azure Mobile Apps](https://github.com/Azure/azure-mobile-apps-net-client): Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
     
- 3. Network libraries
+3. Network libraries
  
    - [RestSharp](http://restsharp.org/)
    - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp). 
