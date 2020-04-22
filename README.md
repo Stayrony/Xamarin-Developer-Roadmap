@@ -1,9 +1,9 @@
 # Xamarin-Developer-Roadmap
-Roadmap to becoming a Xamarin developer in 2019
+Roadmap to becoming a Xamarin developer in 2020
 
-> Roadmap to becoming an [Xamarin](https://docs.microsoft.com/en-us/xamarin/) developer in 2019:
+> Roadmap to becoming an [Xamarin](https://docs.microsoft.com/en-us/xamarin/) developer in 2020:
 
-Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Xamarin developer. I made this chart as a tip for everyone who asks me, "What should I learn next as aXamarin developer?"
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Xamarin developer. I made this chart as a tip for everyone who asks me, "What should I learn next as a Xamarin developer?"
 
 ## Disclaimer
 
@@ -43,9 +43,17 @@ To Be Continued...
    - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET. 
    - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker. 
 
-    
-    
-    
-    
-    
 
+## Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
+## Contribution
+
+Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/Stayrony/Xamarin-Developer-Roadmap/blob/master/CONTRIBUTING.md).
+
+## License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
