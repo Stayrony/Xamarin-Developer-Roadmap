@@ -54,9 +54,14 @@ To Be Continued...
             - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/)
    3. UI Testing
         1. Frameworks
-        - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
-        - [Appium](http://appium.io/)
-        - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
+            - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
+            - [Appium](http://appium.io/)
+            - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
+
+5. Good to Know
+
+   - [Plugin.MediaManager](https://github.com/Baseflow/XamarinMediaManager) Cross platform Xamarin plugin to play and control Audio and Video
+   - [Xamarin.Forms.AppLinks](https://www.nuget.org/packages/Xamarin.Forms.AppLinks) Add support for deep linking and indexing app content using Xamarin.Forms on the Android Platform.
 
 
 ## Wrap Up
