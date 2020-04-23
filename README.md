@@ -43,6 +43,21 @@ To Be Continued...
    - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET. 
    - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker. 
 
+4. Testing
+
+   1. Unit Testing
+        1. Frameworks
+            - [xUnit](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-dotnet-test)
+            - [NUnit](https://docs.microsoft.com/dotnet/core/testing/unit-testing-with-nunit)
+   2. Behavior Testing
+        1. Frameworks
+            - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/)
+   3. UI Testing
+        1. Frameworks
+        - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
+        - [Appium](http://appium.io/)
+        - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
+
 
 ## Wrap Up
 
