@@ -22,27 +22,22 @@ To Be Continued...
 
 1. MVVM frameworks
 
-   - [Prism](https://github.com/PrismLibrary/Prism)
-   - [MVVMCross](https://www.mvvmcross.com/)
-   - [MVVMLight](http://www.mvvmlight.net/)
-   - [FreshMVVM](https://github.com/rid00z/FreshMvvm)
-   - [ReactiveUI](https://reactiveui.net/) – if you are doing Rx
+    - [Prism](https://github.com/PrismLibrary/Prism)
+    - [MVVMCross](https://www.mvvmcross.com/)
+    - [MVVMLight](http://www.mvvmlight.net/)
+    - [FreshMVVM](https://github.com/rid00z/FreshMvvm)
+    - [ReactiveUI](https://reactiveui.net/) – if you are doing Rx
+    - [Fabulous MVU](https://fsprojects.github.io/Fabulous/Fabulous.XamarinForms/) F# Functional App Development, using declarative dynamic UI
 
-2. Storage
-
-   - [SQLite](https://github.com/praeclarum/sqlite-net)
-   - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
-   - [Akavache](https://github.com/akavache/akavache)
-   - [Realm Database Only](https://github.com/realm/realm-dotnet)
-   - [LiteDB](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
-   - [Azure Mobile Apps](https://github.com/Azure/azure-mobile-apps-net-client): Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
+2. Real-Time Communication
+    - [SignalR](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/azure-services/azure-signalr)
 
 3. Network libraries
 
    - [RestSharp](http://restsharp.org/)
-   - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp). 
-   - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET. 
-   - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker. 
+   - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
+   - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET.
+   - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
 
 4. Testing
 
@@ -167,14 +162,14 @@ To Be Continued...
         - [SQLite](https://docs.microsoft.com/en-gb/xamarin/android/data-cloud/data-access/using-sqlite-orm)
         - [Realm](https://realm.io/docs/dotnet/latest)
         - [Akavache](https://github.com/reactiveui/Akavache)
-        - [LiteDB](https://www.litedb.org/)
+        - [LiteDB](https://www.litedb.org/) A .NET NoSQL Document Store in a single data file.
     2. Plugins
         - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
     3. ORM
         - [SQLite-Net.PCL](https://github.com/praeclarum/sqlite-net)
         - [EntityFramework Core](https://xamarinhelp.com/entity-framework-core-xamarin-forms/)
     4. PaaS
-        - [Azure mobile apps](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-value-prop)
+        - [Azure mobile apps](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-value-prop)Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
 
 ## Wrap Ups
 
