@@ -1,5 +1,7 @@
 # Xamarin-Developer-Roadmap
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 Roadmap to becoming a Xamarin developer in 2020
 
 > Roadmap to becoming an [Xamarin](https://docs.microsoft.com/en-us/xamarin/) developer in 2020:
