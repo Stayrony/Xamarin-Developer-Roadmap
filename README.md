@@ -49,10 +49,11 @@ To Be Continued...
         1. Frameworks
             - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/)
    3. UI Testing
-        1. Frameworks
-            - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
-            - [Appium](http://appium.io/)
-            - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
+        - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
+        - [Cloud testing on AWS Device Farm](https://aws.amazon.com/ru/device-farm/)
+        - [Firebase Test Lab](https://firebase.google.com/docs/test-lab) is a cloud-based app-testing infrastructure.
+        - [Appium](http://appium.io/)
+        - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
    4. Mocking
         1. Frameworks
          - [Moq](https://github.com/moq/moq4)
@@ -70,12 +71,30 @@ To Be Continued...
     - [Linking Xamarin.iOS Apps](https://docs.microsoft.com/en-gb/xamarin/ios/deploy-test/linker?tabs=macos)
     - [Linking on Android](https://docs.microsoft.com/en-gb/xamarin/android/deploy-test/linker)
     - [Cross-Platform File IO for iOS, Android](https://devblogs.microsoft.com/xamarin/simple-cross-platform-file-io-for-ios-android-and-windows/)
+    - [Consuming RESTful Services](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/rest)
+    - [App Lifecycle](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/app-lifecycle)
+    - [Working with layouts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/layouts)
+
+    1. Android
+        - [Basic of AXML layout](https://docs.microsoft.com/en-us/xamarin/android/user-interface/android-designer/designer-basics?tabs=windows)
+        - [Understanding the Android Application Manifest](https://docs.microsoft.com/en-gb/xamarin/android/platform/android-manifest)
+        - [Activities and Intents]
+    2. iOS
+        - [Understanding of iOS Terms: App Delegate, View, ViewController, Protocol]
+        - [Design a UI in iOS: using Storyboards, NIBs, Code](https://docs.microsoft.com/en-us/xamarin/ios/user-interface/ios-ui/creating-ui-objects?tabs=macos)
 
 7. Logging
+    - [NLog](https://damienaicheh.github.io/xamarin/nlog/2019/06/06/monitor-your-xamarin-application-using-nlog-en.html)
+    - [Android Debug Log](https://docs.microsoft.com/en-us/xamarin/android/deploy-test/debugging/android-debug-log?tabs=windows)
 
-8. Analytics
+8. Crash Reporting and Analytics
+    - [Google Analytics](https://xamarinhelp.com/google-analytics-xamarin/)
+    - [App Center Analytics](https://docs.microsoft.com/en-us/appcenter/sdk/analytics/xamarin)
+    - [App Center Crashes](https://docs.microsoft.com/en-us/appcenter/sdk/crashes/xamarin)
+    - [Firebase Analytics](https://www.thewissen.io/using-firebase-analytics-in-your-xamarin-forms-app/)
+    - [Amazon Mobile Analytics](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/analytics.html)
 
-9. Crash reporting
+9. Advertising
 
 10. [MVVM Fundamentals](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/enterprise-application-patterns/mvvm)
 
@@ -84,6 +103,7 @@ To Be Continued...
     - [Dependency Injection](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/enterprise-application-patterns/dependency-injection)
 
 11. App Distribution
+
     1. Android
         - [Publishing an Application Android](https://docs.microsoft.com/en-gb/xamarin/android/deploy-test/publishing/)
         - [Publishing to Google Play](https://docs.microsoft.com/en-gb/xamarin/android/deploy-test/publishing/publishing-to-google-play/?tabs=windows)
@@ -100,17 +120,23 @@ To Be Continued...
     - [TestFlight](https://docs.microsoft.com/en-gb/xamarin/ios/deploy-test/testflight?tabs=macos) is Apple’s beta testing service for iOS apps, and is accessible only through iTunes Connect.
 
 13. Advanced
+
     1. Android
         - [Binding a Java Library](https://docs.microsoft.com/en-gb/xamarin/android/platform/binding-java-library/)
     2. iOS
         - [Binding Objective-C Libraries](https://developer.xamarin.com/guides/cross-platform/macios/binding/)
+    3. Cross-Platform
+        - [Application Indexing and Deep Linking](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/deep-linking)
+        - [Localization](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/localization/)
+        - [Deep Linking](https://docs.microsoft.com/en-gb/xamarin/android/platform/app-linking)
+        - [Improve App Performance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/deploy-test/performance)
 
 14. Artificial Intelligence (AI)
+
     1. Machine Learning
         - [CoreML](https://developer.apple.com/documentation/coreml)
         - [ML Kit](https://developers.google.com/ml-kit)
         - [Google Cloud APIs](https://cloud.google.com/apis)
-
     2. Augmented Reality
         1. Android
             - [ARCore](https://devblogs.microsoft.com/xamarin/augmented-reality-xamarin-android-arcore/)
@@ -127,7 +153,6 @@ To Be Continued...
     4. Speech recognition
         - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
         - [Microsoft Bot Framework](https://www.botframework.com/)
-
     5. [Cognitive services](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/introduction)
         - [Azure Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/#overview)
 
@@ -155,21 +180,68 @@ To Be Continued...
     - [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
 
 18. Media
+
     - [SkiaSharp](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 
 19. Data Access
+
     1. Databases
         - [SQLite](https://docs.microsoft.com/en-gb/xamarin/android/data-cloud/data-access/using-sqlite-orm)
         - [Realm](https://realm.io/docs/dotnet/latest)
-        - [Akavache](https://github.com/reactiveui/Akavache)
+
         - [LiteDB](https://www.litedb.org/) A .NET NoSQL Document Store in a single data file.
     2. Plugins
         - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
+        - [Akavache](https://github.com/reactiveui/Akavache)
     3. ORM
         - [SQLite-Net.PCL](https://github.com/praeclarum/sqlite-net)
         - [EntityFramework Core](https://xamarinhelp.com/entity-framework-core-xamarin-forms/)
     4. PaaS
-        - [Azure mobile apps](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-value-prop)Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
+        - [Azure mobile apps](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-value-prop) Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
+    5. Cloud databases
+        - [Firebase Realtime Database](https://firebase.google.com/docs/database)
+        - [Amazon DynamoDB](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/dynamodb.html) is a fast, highly scalable non-relational database service. DynamoDB removes traditional scalability limitations on data storage while maintaining low latency and predictable performance.
+
+20. XAML
+
+    - [Data bindings](https://www.tutorialspoint.com/xaml/xaml_data_binding.htm)
+    - [Triggers](https://www.tutorialspoint.com/xaml/xaml_triggers.htm)
+    - [Behaviors](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/behaviors/)
+    - [Effects](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/effects/creating)
+    - [Controls](https://www.tutorialspoint.com/xaml/xaml_controls.htm)
+    - [Accessibility](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/accessibility/)
+    - [Control Templates](https://www.tutorialspoint.com/xaml/xaml_templates.htm)
+    - [Custom Renderers](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/custom-renderer/)
+
+21. Expert
+
+    1. Android
+        - [JobScheduler](https://developer.android.com/guide/background)
+    2. iOS
+        - [Keychain ACL]
+
+    - [Social sharing](https://ilanolkies.com/post/Xamarin-social-sharing)
+
+22. Push Notifications
+
+    1. Remote
+        - [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-push-notification-overview)
+        - [Amazon Web Services](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/sns.html)
+            - [Xamarin iOS](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/getting-started-sns-ios.html)
+            - [Xamarin Android](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/getting-started-sns-android.html)
+        - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
+            - [Firebase Cloud Messaging on Android and iOS with Xamarin](https://docs.microsoft.com/en-us/xamarin/android/data-cloud/google-messaging/firebase-cloud-messaging)
+    2. [Local](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/local-notifications)
+
+23. Authentication
+
+    - Biometrics Authentication
+            - [Fingerprint Authentication](https://docs.microsoft.com/en-us/xamarin/android/platform/fingerprint-authentication/)
+            - [Touch ID](https://docs.microsoft.com/en-us/xamarin/ios/platform/touch-id-face-id)
+            - [Face ID](https://docs.microsoft.com/en-us/samples/xamarin/ios-samples/ios11-faceidsample/)
+    - [Social Authentication](https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/)
+    - [Authentication with AWS](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/setup.html)
+    - [Authentication with Azure](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-auth)
 
 ## Wrap Ups
 
