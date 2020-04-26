@@ -242,8 +242,16 @@ To Be Continued...
             - [Touch ID](https://docs.microsoft.com/en-us/xamarin/ios/platform/touch-id-face-id)
             - [Face ID](https://docs.microsoft.com/en-us/samples/xamarin/ios-samples/ios11-faceidsample/)
     - [Social Authentication](https://devblogs.microsoft.com/xamarin/authentication-xamarin-essentials-aspnet/)
+        - [Facebook](https://www.xamboy.com/2019/07/23/social-media-authentication-facebook-login-in-xamarin-forms/)
+        - [Instagram](https://www.xamboy.com/2019/08/02/social-media-authentication-instagram-login-in-xamarin-forms/)
+        - [Google](https://www.xamboy.com/2019/11/19/social-media-authentication-google-login-in-xamarin-forms/)
+        - [Twitter](https://channel9.msdn.com/Blogs/MVP-Azure/Implementing-OAuth-with-Twitter-in-an-empty-Xamarin-Forms-Android-Application)
+        - [Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-net-use-brokers-with-xamarin-apps)
+        - [LinkedIn](https://github.com/HoussemDellai/Xamarin.Auth)
+    - [Sign in with Apple](https://www.xamboy.com/2020/01/13/rendy-delrosariogmail-com/)
     - [Authentication with AWS](https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/setup.html)
     - [Authentication with Azure](https://docs.microsoft.com/en-us/previous-versions/azure/app-service-mobile/app-service-mobile-auth)
+    - [Xamarin.Essentials: Web Authenticator](https://docs.microsoft.com/en-us/xamarin/essentials/web-authenticator?tabs=android)
 
 ## Wrap Ups
 
