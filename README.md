@@ -140,7 +140,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 11. Real-Time Communication
 
-    - [SignalR](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/azure-services/azure-signalr)
+    - [SignalR](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/azure-services/azure-signalr) allows server code to send asynchronous notifications to client-side applications.
 
 12. Logging
 
