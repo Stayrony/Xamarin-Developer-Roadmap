@@ -273,9 +273,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 23. Game Engine
 
-    - [MonoGame](https://docs.microsoft.com/en-us/xamarin/graphics-games/monogame/)
-    - [CocosSharp](https://github.com/xamarin/docs-archive/blob/master/Docs/CocosSharp/index.md)
-    - [UrhoSharp](https://docs.microsoft.com/en-gb/xamarin/graphics-games/urhosharp/)
+    - [MonoGame](https://docs.microsoft.com/en-us/xamarin/graphics-games/monogame/) is a free C# framework used by game developers to make games for multiple platforms and other systems.
+    - [CocosSharp](https://github.com/xamarin/docs-archive/blob/master/Docs/CocosSharp/index.md) is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.
+    - [UrhoSharp](https://docs.microsoft.com/en-gb/xamarin/graphics-games/urhosharp/) is a powerful 3D Game Engine for Xamarin and .NET developers.
 
 24. Good to Know
 
