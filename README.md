@@ -264,7 +264,7 @@ If you like or are using this project to learn or start your solution, please gi
 22. Expert
 
     1. Android
-        - [JobScheduler](https://developer.android.com/guide/background)
+        - [JobScheduler](https://developer.android.com/guide/background) is an API for scheduling various types of jobs against the framework that will be executed in your application's own process.
     2. iOS
         - [Keychain ACL](https://developer.apple.com/documentation/security/keychain_services/keychain_items/sharing_access_to_keychain_items_among_a_collection_of_apps)
 
