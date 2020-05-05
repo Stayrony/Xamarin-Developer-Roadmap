@@ -155,7 +155,7 @@ If you like or are using this project to learn or start your solution, please gi
             - [NUnit](https://docs.microsoft.com/en-gb/xamarin/ios/deploy-test/touch.unit)
     2. Behavior Testing
         1. Frameworks
-            - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/)
+            - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/) is a pragmatic BDD solution for .NET. It uses the Gherkin specification language.
     3. UI Testing
         - [Xamarin.UITest](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
         - [Cloud testing on AWS Device Farm](https://aws.amazon.com/ru/device-farm/)
