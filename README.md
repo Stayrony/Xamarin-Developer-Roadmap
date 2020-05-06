@@ -133,7 +133,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 10. Media
 
-    - [Lottie](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/)
+    - [Lottie](https://xamgirl.com/lottie-animations-step-by-step-in-xamarin-forms/) is a mobile library for Android and iOS that natively renders vector based animations and art in realtime with minimal code.
     - [Fast & Furious Image Loading](https://github.com/luberda-molinet/FFImageLoading) Image loading, caching & transforming library for Xamarin and Windows
     - [SkiaSharp](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
     - [Media Plugin](https://github.com/jamesmontemagno/MediaPlugin) cross platform plugin to take photos and video or pick them from a gallery from shared code.
