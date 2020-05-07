@@ -93,7 +93,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET.
         - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
     2. GraphQL
-        - [GraphQL-dotnet](https://github.com/graphql-dotnet/graphql-client)
+        - [GraphQL-dotnet](https://github.com/graphql-dotnet/graphql-client) is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
 
 8. Data Access
 
