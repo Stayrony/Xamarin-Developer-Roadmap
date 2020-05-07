@@ -88,7 +88,7 @@ If you like or are using this project to learn or start your solution, please gi
 7. API Clients
 
     1. REST
-        - [RestSharp](http://restsharp.org/)
+        - [RestSharp](http://restsharp.org/) is simple REST and HTTP API Client for .NET.
         - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
         - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET.
         - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
