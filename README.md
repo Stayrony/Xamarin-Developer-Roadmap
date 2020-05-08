@@ -103,7 +103,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [LiteDB](https://www.litedb.org/) A .NET NoSQL Document Store in a single data file.
     2. Plugins
         - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
-        - [Akavache](https://github.com/reactiveui/Akavache)
+        - [Akavache](https://github.com/reactiveui/Akavache) is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3.
     3. ORM
         - [SQLite-Net.PCL](https://github.com/praeclarum/sqlite-net)
         - [EntityFramework Core](https://xamarinhelp.com/entity-framework-core-xamarin-forms/)
