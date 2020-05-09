@@ -161,7 +161,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Cloud testing on AWS Device Farm](https://aws.amazon.com/ru/device-farm/)
         - [Firebase Test Lab](https://firebase.google.com/docs/test-lab) is a cloud-based app-testing infrastructure.
         - [Appium](http://appium.io/) is an open source test automation framework for use with native, hybrid and mobile web apps.
-        - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
+        - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/) is framework for testing iOS apps.
     4. Mocking
         1. Frameworks
          - [Moq](https://github.com/moq/moq4) is mocking library for .NET.
