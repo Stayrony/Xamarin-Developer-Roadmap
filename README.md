@@ -164,7 +164,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [XCUITest](http://appium.io/docs/en/drivers/ios-xcuitest/)
     4. Mocking
         1. Frameworks
-         - [Moq](https://github.com/moq/moq4)
+         - [Moq](https://github.com/moq/moq4) is mocking library for .NET.
 
 14. Crash Reporting and Analytics
 
