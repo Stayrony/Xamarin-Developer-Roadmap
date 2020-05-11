@@ -200,7 +200,7 @@ If you like or are using this project to learn or start your solution, please gi
 17. Artificial Intelligence (AI)
 
     1. Machine Learning
-        - [CoreML](https://developer.apple.com/documentation/coreml)
+        - [CoreML](https://developer.apple.com/documentation/coreml) is a machine learning framework introduced by Apple.
         - [ML Kit](https://developers.google.com/ml-kit)
         - [Google Cloud APIs](https://cloud.google.com/apis)
     2. Augmented Reality
