@@ -102,7 +102,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Realm](https://realm.io/docs/dotnet/latest) is a mobile platform and a replacement for SQLite & Core Data.
         - [LiteDB](https://www.litedb.org/) A .NET NoSQL Document Store in a single data file.
     2. Plugins
-        - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin)
+        - [Settings Plugin](https://github.com/jamesmontemagno/SettingsPlugin) provides a consistent, cross platform settings/preferences plugin.
         - [Akavache](https://github.com/reactiveui/Akavache) is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3.
     3. ORM
         - [SQLite-Net.PCL](https://github.com/praeclarum/sqlite-net)
