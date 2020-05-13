@@ -224,7 +224,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 18. Advertising
 
-    - [AdMob](https://montemagno.com/xamarinforms-google-admob-ads-in-android/)
+    - [AdMob](https://montemagno.com/xamarinforms-google-admob-ads-in-android/) is a mobile advertising platform that you can use to generate revenue from your app.
     - [Google Admob](https://admob.google.com/home/)
         - [iOS](https://montemagno.com/xamarinforms-google-admob-ads-in-ios/)
         - [Android](https://montemagno.com/xamarinforms-google-admob-ads-in-android/)
