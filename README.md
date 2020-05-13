@@ -215,7 +215,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Google Cloud Vision](https://cloud.google.com/vision)
         - [CoreML](https://developer.apple.com/documentation/coreml)
         - [Tesseract](https://github.com/halkar/Tesseract.Xamarin)
-        - [SwiftOCR](https://github.com/garnele007/SwiftOCR)
+        - [SwiftOCR](https://github.com/garnele007/SwiftOCR) is a fast and simple OCR library written in Swift. It uses a neural network for image recognition.
     4. Speech recognition
         - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
         - [Microsoft Bot Framework](https://www.botframework.com/)
