@@ -82,7 +82,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [MVVMCross](https://www.mvvmcross.com/)
     - [MVVMLight](http://www.mvvmlight.net/)
     - [FreshMVVM](https://github.com/rid00z/FreshMvvm)
-    - [ReactiveUI](https://reactiveui.net/) – if you are doing Rx
+    - [ReactiveUI](https://reactiveui.net/) – is a composable, cross-platform model-view-viewmodel framework for all .NET platforms, that is inspired by functional reactive programming.
     - [Fabulous MVU](https://fsprojects.github.io/Fabulous/Fabulous.XamarinForms/) F# Functional App Development, using declarative dynamic UI
 
 7. API Clients
