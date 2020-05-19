@@ -144,7 +144,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 12. Logging
 
-    - [NLog](https://damienaicheh.github.io/xamarin/nlog/2019/06/06/monitor-your-xamarin-application-using-nlog-en.html)
+    - [NLog](https://damienaicheh.github.io/xamarin/nlog/2019/06/06/monitor-your-xamarin-application-using-nlog-en.html) is a flexible and free logging platform for various .NET platforms, including .NET standard.
     - [Android Debug Log](https://docs.microsoft.com/en-us/xamarin/android/deploy-test/debugging/android-debug-log?tabs=windows)
 
 13. Testing
