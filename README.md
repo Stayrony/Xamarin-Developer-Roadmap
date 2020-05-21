@@ -207,7 +207,7 @@ If you like or are using this project to learn or start your solution, please gi
         1. Android
             - [ARCore](https://devblogs.microsoft.com/xamarin/augmented-reality-xamarin-android-arcore/)
         2. iOS
-            - [ARKit](https://docs.microsoft.com/en-gb/xamarin/ios/platform/introduction-to-ios11/arkit/)
+            - [ARKit](https://docs.microsoft.com/en-gb/xamarin/ios/platform/introduction-to-ios11/arkit/) is Apple's augmented reality (AR) platform for iOS devices. It enables developers to produce apps that interact with the world around you using the device's cameras and sensors.
     3. Optical Character Recognition (OCR)
         - [ML Kit for Firebase](https://firebase.google.com/docs/ml-kit/)
         - [Amazon Rekognition](https://aws.amazon.com/ru/rekognition/)
