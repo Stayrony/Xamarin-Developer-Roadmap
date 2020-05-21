@@ -152,7 +152,7 @@ If you like or are using this project to learn or start your solution, please gi
     1. [Unit Testing](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/)
         1. Frameworks
             - [xUnit](https://gregshackles.com/testing-xamarin-apps-getting-started-with-xunit/)
-            - [NUnit](https://docs.microsoft.com/en-gb/xamarin/ios/deploy-test/touch.unit)
+            - [NUnit](https://docs.microsoft.com/en-gb/xamarin/ios/deploy-test/touch.unit) is a unit-testing framework for all .NET languages.
     2. Behavior Testing
         1. Frameworks
             - [SpecFlow](https://robgibbens.com/bdd-tests-with-xamarin-uitest-and-specflow/) is a pragmatic BDD solution for .NET. It uses the Gherkin specification language.
