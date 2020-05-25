@@ -252,7 +252,7 @@ If you like or are using this project to learn or start your solution, please gi
     3. Cross-Platform
         - [Application Indexing and Deep Linking](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/deep-linking)
         - [Localization](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/localization/)
-        - [Deep Linking](https://docs.microsoft.com/en-gb/xamarin/android/platform/app-linking)
+        - [Deep Linking](https://docs.microsoft.com/en-gb/xamarin/android/platform/app-linking) allows applications to respond to a search result that contains application data, typically by navigating to a page referenced from a deep link.
         - [Improve App Performance](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/deploy-test/performance)
 
 21. Tools
