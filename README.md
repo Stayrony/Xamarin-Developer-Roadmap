@@ -218,7 +218,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [SwiftOCR](https://github.com/garnele007/SwiftOCR) is a fast and simple OCR library written in Swift. It uses a neural network for image recognition.
     4. Speech recognition
         - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
-        - [Microsoft Bot Framework](https://www.botframework.com/)
+        - [Microsoft Bot Framework](https://www.botframework.com/) is an open-source, visual authoring canvas for developers to design and build conversational experiences with Language Understanding and QnA Maker, and a sophisticated composition of bot replies (Language Generation).
     5. [Cognitive services](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/introduction)
         - [Azure Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/#overview)
 
