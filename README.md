@@ -205,7 +205,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Google Cloud APIs](https://cloud.google.com/apis)
     2. Augmented Reality
         1. Android
-            - [ARCore](https://devblogs.microsoft.com/xamarin/augmented-reality-xamarin-android-arcore/)
+            - [ARCore](https://devblogs.microsoft.com/xamarin/augmented-reality-xamarin-android-arcore/) is a software development kit developed by Google that allows for augmented reality applications to be built.
         2. iOS
             - [ARKit](https://docs.microsoft.com/en-gb/xamarin/ios/platform/introduction-to-ios11/arkit/) is Apple's augmented reality (AR) platform for iOS devices. It enables developers to produce apps that interact with the world around you using the device's cameras and sensors.
     3. Optical Character Recognition (OCR)
