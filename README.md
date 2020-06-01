@@ -219,7 +219,7 @@ If you like or are using this project to learn or start your solution, please gi
     4. Speech recognition
         - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
         - [Microsoft Bot Framework](https://www.botframework.com/) is an open-source, visual authoring canvas for developers to design and build conversational experiences with Language Understanding and QnA Maker, and a sophisticated composition of bot replies (Language Generation).
-    5. [Cognitive services](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/introduction)
+    5. [Cognitive services](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/introduction) are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence.
         - [Azure Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/#overview)
 
 18. Advertising
