@@ -98,7 +98,7 @@ If you like or are using this project to learn or start your solution, please gi
 8. Data Access
 
     1. Databases
-        - [SQLite](https://docs.microsoft.com/en-gb/xamarin/android/data-cloud/data-access/using-sqlite-orm)
+        - [SQLite](https://docs.microsoft.com/en-gb/xamarin/android/data-cloud/data-access/using-sqlite-orm) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
         - [Realm](https://realm.io/docs/dotnet/latest) is a mobile platform and a replacement for SQLite & Core Data.
         - [LiteDB](https://www.litedb.org/) A .NET NoSQL Document Store in a single data file.
     2. Plugins
