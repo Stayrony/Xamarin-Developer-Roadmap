@@ -217,7 +217,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [Tesseract](https://github.com/halkar/Tesseract.Xamarin) is an OCR engine with support for unicode and the ability to recognize more than 100 languages out of the box.
         - [SwiftOCR](https://github.com/garnele007/SwiftOCR) is a fast and simple OCR library written in Swift. It uses a neural network for image recognition.
     4. Speech recognition
-        - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2)
+        - [Watson Assistant v2](https://cloud.ibm.com/apidocs/assistant/assistant-v2) service combines machine learning, natural language understanding, and an integrated dialog editor to create conversation flows between your apps and your users.
         - [Microsoft Bot Framework](https://www.botframework.com/) is an open-source, visual authoring canvas for developers to design and build conversational experiences with Language Understanding and QnA Maker, and a sophisticated composition of bot replies (Language Generation).
     5. [Cognitive services](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/introduction) are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence.
         - [Azure Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/#overview)
