@@ -83,13 +83,13 @@ If you like or are using this project to learn or start your solution, please gi
     - [MVVMLight](http://www.mvvmlight.net/)
     - [FreshMVVM](https://github.com/rid00z/FreshMvvm)
     - [ReactiveUI](https://reactiveui.net/) – is a composable, cross-platform model-view-viewmodel framework for all .NET platforms, that is inspired by functional reactive programming.
-    - [Fabulous MVU](https://fsprojects.github.io/Fabulous/Fabulous.XamarinForms/) F# Functional App Development, using declarative dynamic UI
+    - [Fabulous MVU](https://docs.fabulous.dev/about/fabulous-for-xamarinforms/) F# Functional App Development, using declarative dynamic UI
 
 7. API Clients
 
     1. REST
         - [RestSharp](http://restsharp.org/) is simple REST and HTTP API Client for .NET.
-        - [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
+        - [Flurl](https://flurl.dev/): Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library for .NET.
         - [Refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for Xamarin and .NET.
         - [Polly](https://github.com/App-vNext/Polly): Automatic retry policies. Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
     2. GraphQL
